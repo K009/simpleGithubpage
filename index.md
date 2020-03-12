@@ -1,3 +1,6 @@
+## Beginning
+
+Here I'm going to update one of my university projects, that focuses on some Java technologies such as: Swing, HSQLDB to make a database.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/K009/simpleDataBase/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
