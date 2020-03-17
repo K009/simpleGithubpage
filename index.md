@@ -1,6 +1,8 @@
 ## Beginning
 
 Here I'm going to update one of my university projects, that focuses on some Java technologies such as: Swing, HSQLDB to make a database.
+![Image of project]
+(https://github.com/K009/simpleDataBase/blob/master/database2.png)
 <img src="https://github.com/K009/simpleDataBase/blob/master/database2.png" alt="Demo Image">
 ## Welcome to GitHub Pages
 
