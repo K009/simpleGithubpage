@@ -3,7 +3,6 @@
 Here I'm going to update one of my university projects, that focuses on some Java technologies such as: Swing, HSQLDB to make a database.
 ![Image of project]
 (https://github.com/K009/simpleDataBase/blob/master/database2.png)
-<img src="https://github.com/K009/simpleDataBase/blob/master/database2.png" alt="Demo Image">
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/K009/simpleDataBase/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
